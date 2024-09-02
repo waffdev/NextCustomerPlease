@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\james\\Documents\\Supermarket Simulator Modding\\Next Customer Please\\NextCustomerPlease\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4639166-078F-4492-BE0D-2CC98418F622}|NextCustomerPlease.csproj|d:\\users\\james\\documents\\supermarket simulator modding\\next customer please\\nextcustomerplease\\nextcustomerplease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4639166-078F-4492-BE0D-2CC98418F622}|NextCustomerPlease.csproj|solutionrelative:nextcustomerplease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4639166-078F-4492-BE0D-2CC98418F622}|NextCustomerPlease.csproj|d:\\users\\james\\documents\\supermarket simulator modding\\next customer please\\nextcustomerplease\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4639166-078F-4492-BE0D-2CC98418F622}|NextCustomerPlease.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4639166-078F-4492-BE0D-2CC98418F622}|NextCustomerPlease.csproj|d:\\users\\james\\documents\\supermarket simulator modding\\next customer please\\nextcustomerplease\\obj\\debug\\netstandard2.1\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4639166-078F-4492-BE0D-2CC98418F622}|NextCustomerPlease.csproj|solutionrelative:obj\\debug\\netstandard2.1\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NextCustomerPlease",
+              "DocumentMoniker": "D:\\Users\\james\\Documents\\Supermarket Simulator Modding\\Next Customer Please\\NextCustomerPlease\\NextCustomerPlease.csproj",
+              "RelativeDocumentMoniker": "NextCustomerPlease.csproj",
+              "ToolTip": "D:\\Users\\james\\Documents\\Supermarket Simulator Modding\\Next Customer Please\\NextCustomerPlease\\NextCustomerPlease.csproj",
+              "RelativeToolTip": "NextCustomerPlease.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T17:48:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PluginInfo.cs",
+              "DocumentMoniker": "D:\\Users\\james\\Documents\\Supermarket Simulator Modding\\Next Customer Please\\NextCustomerPlease\\obj\\Debug\\netstandard2.1\\PluginInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\netstandard2.1\\PluginInfo.cs",
+              "ToolTip": "D:\\Users\\james\\Documents\\Supermarket Simulator Modding\\Next Customer Please\\NextCustomerPlease\\obj\\Debug\\netstandard2.1\\PluginInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\netstandard2.1\\PluginInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:48:41.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "D:\\Users\\james\\Documents\\Supermarket Simulator Modding\\Next Customer Please\\NextCustomerPlease\\Plugin.cs",
+              "RelativeDocumentMoniker": "Plugin.cs",
+              "ToolTip": "D:\\Users\\james\\Documents\\Supermarket Simulator Modding\\Next Customer Please\\NextCustomerPlease\\Plugin.cs",
+              "RelativeToolTip": "Plugin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:31:32.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
